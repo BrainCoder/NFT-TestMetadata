@@ -1,6 +1,6 @@
 {
   "name": "NFT Test metadata",
-  "description": "This is a set of test metadata for opensea",
+  "description": "This is a set of test metadata for opensea.",
   "image": "https://braincoder.github.io/NFT-TestMetadata/img.png",
   "external_link": "https://braincoder.github.io/NFT-TestMetadata/",
   "seller_fee_basis_points": 250, # Indicates a 2.5% seller fee.
