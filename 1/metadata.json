@@ -1,23 +1,24 @@
 {
-	"name": "NFT Test metadata",
-	"description": "This is a set of test metadata for opensea.",
-	"external_url": "https://braincoder.github.io/NFT-TestMetadata/1/",
-	"image": "https://braincoder.github.io/NFT-TestMetadata/1/img.png",
-	"attributes": [{
-			"trait_type": "Square",
-			"value": "Green"
-		},
-		{
-			"trait_type": "Circle",
-			"value": "Green"
-		},
-		{
-			"trait_type": "Polygon",
-			"value": "Green"
-		},
-		{
-			"trait_type": "Level",
-			"value": 1
-		}
-	]
+    "name": "NFT Test metadata #1",
+    "description": "This is a set of test metadata for opensea.",
+    "external_url": "https://braincoder.github.io/NFT-TestMetadata/1/",
+    "image": "https://braincoder.github.io/NFT-TestMetadata/1/img.png",
+    "attributes": [
+        {
+            "trait_type": "Circle",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Rectangle",
+            "value": "black"
+        },
+        {
+            "trait_type": "Polygon",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Level",
+            "value": "2"
+        }
+    ]
 }

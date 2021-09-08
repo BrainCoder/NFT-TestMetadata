@@ -1,0 +1,24 @@
+{
+    "name": "NFT Test metadata #16",
+    "description": "This is a set of test metadata for opensea.",
+    "external_url": "https://braincoder.github.io/NFT-TestMetadata/16/",
+    "image": "https://braincoder.github.io/NFT-TestMetadata/16/img.png",
+    "attributes": [
+        {
+            "trait_type": "Circle",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Rectangle",
+            "value": "black"
+        },
+        {
+            "trait_type": "Polygon",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Level",
+            "value": "1"
+        }
+    ]
+}
