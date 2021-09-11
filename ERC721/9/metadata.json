@@ -1,8 +1,8 @@
 {
     "name": "NFT Test metadata #9",
     "description": "This is a set of test metadata for opensea.",
-    "external_url": "https://braincoder.github.io/NFT-TestMetadata/9/",
-    "image": "https://braincoder.github.io/NFT-TestMetadata/9/img.png",
+    "external_url": "https://braincoder.github.io/NFT-TestMetadata/ERC721/9/",
+    "image": "https://braincoder.github.io/NFT-TestMetadata/ERC721/9/img.png",
     "attributes": [
         {
             "trait_type": "Circle",
