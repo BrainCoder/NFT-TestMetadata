@@ -1,0 +1,8 @@
+{
+  "name": "Fish Test metadata ERC1155",
+  "description": "This is a set of fish test metadata for opensea.",
+  "image": "https://braincoder.github.io/NFT-TestMetadata/ERC1155/img.png",
+  "external_link": "https://braincoder.github.io/NFT-TestMetadata/ERC1155/",
+  "seller_fee_basis_points": 250,
+  "fee_recipient": "0xa27ff27db3Df10A9ED75D00A1918B6895097CF55"
+}
